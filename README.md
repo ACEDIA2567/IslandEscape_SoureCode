@@ -5,7 +5,7 @@
 
 ## 스크립트 트리
 📦Scripts  
- ┣ 📂Entity  
+ ┣ 📂Entity ▶ 개별 오브젝트 기능  
  ┃ ┣ 📜BuildViewerObject.cs  
  ┃ ┣ 📜DayNightCycle.cs  
  ┃ ┣ 📜Helicopter.cs  
@@ -14,23 +14,23 @@
  ┃ ┣ 📜NPC.cs  
  ┃ ┣ 📜ObjectInfo.cs  
  ┃ ┣ 📜Slot.cs   
- ┣ 📂Item  
+ ┣ 📂Item  ▶ 아이템 별 기능  
  ┃ ┣ 📜Equip.cs  
  ┃ ┣ 📜EquipTool.cs  
  ┃ ┣ 📜Resource.cs  
- ┣ 📂Manager  
+ ┣ 📂Manager  ▶ 게임을 관리하는 매니저  
  ┃ ┣ 📜GameManager.cs  
  ┃ ┣ 📜SceneChanger.cs  
  ┃ ┣ 📜SpawnManger.cs    
  ┃ ┣ 📜UIManager.cs    
- ┣ 📂Player  
+ ┣ 📂Player  ▶ 플레이어와 관련된 기능  
  ┃ ┣ 📜Equipment.cs  
  ┃ ┣ 📜Player.cs  
  ┃ ┣ 📜PlayerCondition.cs  
  ┃ ┣ 📜PlayerController.cs  
  ┃ ┣ 📜PlayerCraft.cs  
  ┃ ┣ 📜PlayerInteraction.cs  
- ┣ 📂ScriptableObject  
+ ┣ 📂ScriptableObject  ▶ 정보를 저장하는 기능  
  ┃ ┣ 📂Data  
  ┃ ┃ ┣ 📜Apple.asset  
  ┃ ┃ ┣ 📜Armor.asset  
@@ -45,7 +45,7 @@
  ┃ ┃ ┣ 📜Tent.asset  
  ┃ ┃ ┣ 📜Wood.asset  
  ┃ ┣ 📜ItemData.cs  
- ┣ 📂UI  
+ ┣ 📂UI  ▶ 씬에서 UI의 기능
  ┃ ┣ 📜Condition.cs    
  ┃ ┣ 📜Produce.cs  
  ┃ ┣ 📜UICondition.cs  
