@@ -45,7 +45,7 @@
  ┃ ┃ ┣ 📜Tent.asset  
  ┃ ┃ ┣ 📜Wood.asset  
  ┃ ┣ 📜ItemData.cs  
- ┣ 📂UI  ▶ 씬에서 UI의 기능
+ ┣ 📂UI  ▶ 씬에서 UI의 기능  
  ┃ ┣ 📜Condition.cs    
  ┃ ┣ 📜Produce.cs  
  ┃ ┣ 📜UICondition.cs  
